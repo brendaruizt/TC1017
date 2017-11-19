@@ -34,14 +34,11 @@ string question30="Was he a son of Cersei Lannister?";
 string question31="Did he gave the order to kill Eddard Stark?";
 string question32="Did he killed himself by jumping off a window?";
 
-
-int gameCount;
 string str1 = " ";
 string answer1;string answer2;string answer3;string answer4;string answer5;string answer6;string answer7;string answer8;
 string answer9;string answer10;string answer11;string answer12;string answer13;string answer14;string answer15;string answer16;
 string answer17;string answer18;string answer19;string answer20;string answer21;string answer22;string answer23;string answer24;
 string answer25;string answer26;string answer27;string answer28;string answer29;string answer30;string answer31;string answer32;
-int name;
 int main()
 {
 cout << "Welcome to Game of Thrones Guess Who?" << endl;
