@@ -1,10 +1,6 @@
 #include <iostream>
 using namespace std;
 
-void game();
-bool validAnswer(char answer);
-void gameResult();
-
 string question1="Is your character a woman?";
 string question2="Is she a Stark?";
 string question3="Is she No One?";
