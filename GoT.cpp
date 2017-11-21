@@ -272,7 +272,7 @@ if (answer1=="N"){
 						}
 					}
 					if (answer26=="N"){
-						cout<<"I'm sorry I don't know what character you are talking about, I have no further questions."<<endl;
+						cout<<"Even though my Little Birds are everywhere they didn't whisper to me about that character. I have no further questions."<<endl;
 					}
 				}
 			}
